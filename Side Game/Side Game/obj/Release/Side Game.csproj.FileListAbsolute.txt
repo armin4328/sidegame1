@@ -1,0 +1,11 @@
+C:\Users\388195.SSDCO\Desktop\New folder (3)\Side Game\Side Game\bin\Release\Side Game.exe
+C:\Users\388195.SSDCO\Desktop\New folder (3)\Side Game\Side Game\bin\Release\Side Game.exe.config
+C:\Users\388195.SSDCO\Desktop\New folder (3)\Side Game\Side Game\obj\Release\Side Game.csproj.AssemblyReference.cache
+C:\Users\388195.SSDCO\Desktop\New folder (3)\Side Game\Side Game\obj\Release\Side Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\388195.SSDCO\Desktop\New folder (3)\Side Game\Side Game\obj\Release\Side_Game.Form1.resources
+C:\Users\388195.SSDCO\Desktop\New folder (3)\Side Game\Side Game\obj\Release\Side_Game.Properties.Resources.resources
+C:\Users\388195.SSDCO\Desktop\New folder (3)\Side Game\Side Game\obj\Release\Side_Game.townScreen.resources
+C:\Users\388195.SSDCO\Desktop\New folder (3)\Side Game\Side Game\obj\Release\Side Game.csproj.GenerateResource.cache
+C:\Users\388195.SSDCO\Desktop\New folder (3)\Side Game\Side Game\obj\Release\Side Game.csproj.CoreCompileInputs.cache
+C:\Users\388195.SSDCO\Desktop\New folder (3)\Side Game\Side Game\obj\Release\Side Game.exe
+C:\Users\388195.SSDCO\Desktop\New folder (3)\Side Game\Side Game\obj\Release\Side Game.pdb
